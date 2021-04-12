@@ -29,6 +29,8 @@ npm install -g yarn
 npm install -g create-react-app
 ````
 
+&nbsp
+
 
 ## Primeiros passos para criar sua aplicação React
 
