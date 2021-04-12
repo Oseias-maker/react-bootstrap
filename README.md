@@ -14,7 +14,7 @@ Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
 ## **Ambientes de Desenvolvimento e Referências**
 
 * IDE:    **VSCODE 1.55.1**
-* NPM:    **6.14.11**
+* NPM:    **version 6.14.11**
 * Pacotes necessários:
 ```sh
 create-react-app
