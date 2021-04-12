@@ -5,7 +5,7 @@
 # React Bootstrap
 Aplicação contendo ReactJS + Bootstrap baseado no tutorial da [Celke](https://celke.com.br/artigo/como-integrar-o-react-com-bootstrap).
 
-Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
+**Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)**
 
 # Requisitos
 
