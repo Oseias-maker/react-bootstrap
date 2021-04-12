@@ -10,7 +10,6 @@ Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
 # Requisitos
 
 
-
 ## **Ambientes de Desenvolvimento e Referências**
 
 * IDE:    **VSCODE 1.55.1**
@@ -19,7 +18,13 @@ Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
 
 # Primeiros passos para criar sua aplicação React
 
-Execute o seguinte comando: 
+1 - Dentro da pasta do seu projeto, execute o seguinte comando: 
 ```sh
 create-react-app
 ```
+
+2 - Logo após, ainda no mesmo diretório, para instalação dos pacotes do Bootstrap, execute os seguintes comandos:
+```
+npm install --save react react-dom
+npm install --save react-bootstrap
+````
