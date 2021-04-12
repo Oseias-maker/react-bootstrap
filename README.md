@@ -30,7 +30,7 @@ npm install -g create-react-app
 ````
 
 
-&nbsp
+&nbsp;
 
 
 ## Primeiros passos para criar sua aplicação React
