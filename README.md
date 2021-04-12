@@ -33,7 +33,7 @@ npm install -g create-react-app
 &nbsp;
 
 
-## Primeiros passos para criar sua aplicação React
+# Primeiros passos para criar sua aplicação React
 
 1 - Dentro da pasta do seu projeto, execute o seguinte comando: 
 ```sh
