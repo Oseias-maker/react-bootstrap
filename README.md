@@ -28,3 +28,13 @@ create-react-app
 npm install --save react react-dom
 npm install --save react-bootstrap
 ````
+
+3 - Para começar a programar, vamos utilizar a IDE Visual Studio Code. Para abrir o projeto nele, digite os seguintes comandos no diretório do projeto:
+```
+Code .
+````
+
+4 - Pronto! Agora basta você desenvolver do seu jeito a sua aplicação e executa-lá para teste com o comando a seguir:
+```
+yarn start
+````
