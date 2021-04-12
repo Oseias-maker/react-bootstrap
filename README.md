@@ -15,7 +15,12 @@ Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
 
 * IDE:    **VSCODE 1.55.1**
 * NPM:    **6.14.11**
-* Pacotes necessários: **[Packages](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/packages)**
+* Pacotes necessários:
+```sh
+create-react-app
+npm install --save react react-dom
+npm install --save react-bootstrap
+```
 
 
 # Primeiros passos para criar sua aplicação React
