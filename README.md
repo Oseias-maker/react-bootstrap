@@ -9,7 +9,7 @@ Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
 
 # Primeiros passos para criar sua aplicação React
 
-Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
+Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
 
@@ -26,7 +26,7 @@ Você também verá quaisquer erros de lint no console.
 ### `yarn test`
 
 Inicia o executor de teste no modo de observação interativo. \
-Consulte a seção sobre [testes em execução] (https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
+Consulte a seção sobre [testes em execução](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
 ### `yarn build`
 
@@ -36,7 +36,7 @@ Ele agrupa corretamente o React no modo de produção e otimiza a construção p
 A compilação é reduzida e os nomes dos arquivos incluem os hashes. \
 Seu aplicativo está pronto para ser implantado!
 
-Consulte a seção sobre [implantação] (https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
+Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
 
 ### `yarn eject`
 
