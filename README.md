@@ -16,7 +16,7 @@ Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
 * NPM:    **version 6.14.11**
 
 
-# Primeiros passos para criar sua aplicação React
+## Primeiros passos para criar sua aplicação React
 
 1 - Dentro da pasta do seu projeto, execute o seguinte comando: 
 ```sh
@@ -40,7 +40,7 @@ yarn start
 ````
 
 
-# Vincular folha de estilos Bootstrap 3
+## Vincular folha de estilos Bootstrap 3
 
 1 - Insira o seguinte comando dentro do index.html:
 ```
