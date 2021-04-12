@@ -7,6 +7,17 @@ Aplicação contendo ReactJS + Bootstrap
 
 Hospeadado em: [Netlify](https://react-bootstrap777.netlify.app/)
 
+# Requisitos
+
+
+
+## **Ambientes de Desenvolvimento e Referências**
+
+* IDE:    **VSCODE 1.55.1**
+* NPM:    **6.14.11**
+* Pacotes necessários: **[Packages](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/packages)**
+
+
 # Primeiros passos para criar sua aplicação React
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
