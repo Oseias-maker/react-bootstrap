@@ -6,7 +6,7 @@ const Article = (props) => {
     <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">Titulo do Artigo.</h1>
+          <h1 className="display-3">Título do Artigo.</h1>
           <p className="lead">Conteúdo do Artigo. </p>
         </Container>
       </Jumbotron>
