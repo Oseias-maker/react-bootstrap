@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0cbdee6c-641b-48f4-ac2a-1a7648fdbd0f/deploy-status)](https://app.netlify.com/sites/react-bootstrap777/deploys)
 
-# React Bootstrapp
+# React Bootstrap
 Aplicação desenvolvida em ReactJS contendo Bootstrap. 
 
 Baseado no tutorial do WebSite [Celke](https://celke.com.br/artigo/como-integrar-o-react-com-bootstrap).
